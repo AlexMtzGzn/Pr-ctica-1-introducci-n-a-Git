@@ -26,7 +26,9 @@ El archivo .gitignore fue creado para evitar que archivos de prueba con la exten
 
 
 ## Verificar localmente
- Usando el comando git status en la terminal. El archivo debug.log no debería aparecer en la lista de archivos "untracked" debido a la configuración en .gitignore.
+ Usando el comando git ls-files en la terminal. El archivo debug.log no debería aparecer en la lista de archivos "untracked" debido a la configuración en .gitignore.
+
+ ![alt text](image-2.png)
 
 ## Verificar en GitHub 
 

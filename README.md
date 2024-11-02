@@ -19,3 +19,21 @@ python3 holamundo.py
 
 ## El archivo .gitignore
 El archivo .gitignore fue creado para evitar que archivos de prueba con la extensión .log se suban al repositorio. 
+
+## Captura ejecucion del codigo
+![alt text](image.png)
+
+
+
+## Verificar localmente
+ Usando el comando git status en la terminal. El archivo debug.log no debería aparecer en la lista de archivos "untracked" debido a la configuración en .gitignore.
+
+## Verificar en GitHub 
+
+Después de hacer push de los cambios al repositorio remoto en GitHub, puedes abrir el repositorio en el navegador. En la lista de archivos del repositorio, debug.log no debería estar presente, ya que .gitignore está configurado para que Git no lo incluya en el seguimiento ni lo suba al repositorio.
+
+
+
+
+
+

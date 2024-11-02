@@ -32,6 +32,8 @@ El archivo .gitignore fue creado para evitar que archivos de prueba con la exten
 
 Después de hacer push de los cambios al repositorio remoto en GitHub, puedes abrir el repositorio en el navegador. En la lista de archivos del repositorio, debug.log no debería estar presente, ya que .gitignore está configurado para que Git no lo incluya en el seguimiento ni lo suba al repositorio.
 
+![alt text](image-1.png)
+
 
 
 
